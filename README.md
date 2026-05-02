@@ -26,7 +26,7 @@ ESP32 Dev Board + DHT22 Sensor
 
 
 ```sh
-DHT22	 ESP32
+DHT22(sensor)	 ESP32(module)
 
 +       3V3  
 -       GND  
@@ -82,7 +82,7 @@ Tools → Port → /dev/ttyUSB0  (or similar)
 **Edit the code:**
 
 ```c++
-const char* ssid = "YOUR_WIFI_NAME"; // it support 2G WIFIF Only
+const char* ssid = "YOUR_WIFI_NAME"; // it support 2G WIFI Only
 const char* password = "YOUR_PASSWORD";
 const char* BOT_TOKEN = "YOUR_BOT_TOKEN";
 const char* ALLOWED_IDS[] = {
@@ -106,11 +106,11 @@ Select Port : /dev/ttyUSB0
 - Command	Description
 
 ```sh
-start -	Start bot
-data - Full system info
-feel - Funny weather response
-temperature - Get temperature
-humidity - Get humidity
+start - 👍 Start the bot
+data - 🔌 Show system + sensor status
+feel - 😛 Funny weather feeling
+temperature - ☀️ Get temperature
+humidity - 🔥 Get humidity
 ```
 
 ## ⚠️ Notes
