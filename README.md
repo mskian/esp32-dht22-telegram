@@ -79,6 +79,9 @@ Tools → Port → /dev/ttyUSB0  (or similar)
 
 ## 🔑 Configuration
 
+- `esp32_dht22_telegram_bot.ino`: for faster response and consume more energy
+- `esp32_dht22_optimized_bot.ino`: Optimized and deplay in bot response (recommended)
+
 **Edit the code:**
 
 ```c++
