@@ -1,6 +1,10 @@
 # ESP32 DHT22 Telegram Bot
 
-A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity and send data via a Telegram bot.  
+A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity and send data via a Telegram bot. 
+
+<img width="500" height="580" alt="A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity" src="https://github.com/user-attachments/assets/43f74c9f-8efa-420f-a1ea-a029f3a83eac" /><br />
+
+<img width="702" height="1280" alt="Telegram Bot Update" src="https://github.com/user-attachments/assets/ebff3560-e19b-4143-9255-ff76233c40a7" /><br>
 
 ## 🔥 Features
 
@@ -17,6 +21,9 @@ A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity 
 ESP32 Dev Board + DHT22 Sensor
 
 **Wiring**
+
+<img width="500" height="580" alt="Wiring" src="https://github.com/user-attachments/assets/625a3775-e1e4-4a98-b768-0719c31e2608" /><br />
+
 
 ```sh
 DHT22	 ESP32
