@@ -107,7 +107,12 @@ humidity - Get humidity
 
 - DHT22 updates every `~2` seconds (hardware limitation)
 - Use 3.3V (not 5V)
-- Avoid rapid polling  
+- Avoid rapid polling
+
+## Credits
+
+- Room temperature and humidity with ESP8266, DHT11, and a Telegram bot - <https://github.com/mcnaveen/esp8266-dht11-telegram>
+- Universal Telegram Bot Library - <https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot>  
 
 ## LICENSE
 
