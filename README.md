@@ -77,14 +77,17 @@ Tools → Port → /dev/ttyUSB0  (or similar)
 
 - Copy your BOT TOKEN
 
-#3 🔑 Configuration
+## 🔑 Configuration
 
 **Edit the code:**
 
 ```c++
-const char* ssid = "YOUR_WIFI";
+const char* ssid = "YOUR_WIFI_NAME"; // it support 2G WIFIF Only
 const char* password = "YOUR_PASSWORD";
 const char* BOT_TOKEN = "YOUR_BOT_TOKEN";
+const char* ALLOWED_IDS[] = {
+  "YOUR CHAT ID"
+};
 ```
 
 ## 🚀 Upload
