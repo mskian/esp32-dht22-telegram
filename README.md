@@ -122,7 +122,8 @@ humidity - 🔥 Get humidity
 ## Credits
 
 - Room temperature and humidity with ESP8266, DHT11, and a Telegram bot - <https://github.com/mcnaveen/esp8266-dht11-telegram>
-- Universal Telegram Bot Library - <https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot>  
+- Universal Telegram Bot Library - <https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot>
+- ESP32 and DHT22: Learning Hardware Selection the Hard Way - <https://medium.com/@ummugulsun/esp32-and-dht22-learning-hardware-selection-the-hard-way-49d2589050c2>  
 
 ## LICENSE
 
