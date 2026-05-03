@@ -20,7 +20,9 @@ A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity 
 
 ESP32 Dev Board + DHT22 Sensor
 
-**Wiring**
+#### Wiring:
+
+**it requires 3 Jumper Wires** <br>
 
 <img width="500" height="580" alt="Wiring" src="https://github.com/user-attachments/assets/625a3775-e1e4-4a98-b768-0719c31e2608" /><br />
 
@@ -79,8 +81,11 @@ Tools → Port → /dev/ttyUSB0  (or similar)
 
 ## 🔑 Configuration
 
+**Choose Anyone of the Code below based on your usage:**  
+
 - `esp32_dht22_telegram_bot.ino`: for faster response and consume more energy
 - `esp32_dht22_optimized_bot.ino`: Optimized and deplay in bot response (recommended)
+- `esp32_dht22_web_bot.ino`: Telegram Bot + web view with Real-time Live Data + Telegram Trigger Button (recommended)  
 
 **Edit the code:**
 
