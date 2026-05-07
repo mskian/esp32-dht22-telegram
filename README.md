@@ -1,6 +1,8 @@
 # ESP32 DHT22 Telegram Bot
 
-A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity and send data via a Telegram bot. 
+A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity and send data via a Telegram bot.   
+
+<img width="1536" height="1024" alt="A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity" src="https://github.com/user-attachments/assets/d930656c-433c-4930-8657-105cfcc0a18f" /><br />
 
 <img width="500" height="580" alt="A real-time IoT project using ESP32 + DHT22 to monitor temperature and humidity" src="https://github.com/user-attachments/assets/43f74c9f-8efa-420f-a1ea-a029f3a83eac" /><br />
 
@@ -131,7 +133,8 @@ humidity - 🔥 Get humidity
 
 - Room temperature and humidity with ESP8266, DHT11, and a Telegram bot - <https://github.com/mcnaveen/esp8266-dht11-telegram>
 - Universal Telegram Bot Library - <https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot>
-- ESP32 and DHT22: Learning Hardware Selection the Hard Way - <https://medium.com/@ummugulsun/esp32-and-dht22-learning-hardware-selection-the-hard-way-49d2589050c2>  
+- ESP32 and DHT22: Learning Hardware Selection the Hard Way - <https://medium.com/@ummugulsun/esp32-and-dht22-learning-hardware-selection-the-hard-way-49d2589050c2>
+- Youtube Demo Video: **<https://www.youtube.com/shorts/qvT4jK5xQgs>**  
 
 ## LICENSE
 
